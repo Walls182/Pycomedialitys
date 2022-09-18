@@ -40,7 +40,7 @@ public class Psicologo extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        txtvet.setBorder(javax.swing.BorderFactory.createTitledBorder("Id Veterinario"));
+        txtvet.setBorder(javax.swing.BorderFactory.createTitledBorder("Id Psicologo"));
 
         txtcor.setBorder(javax.swing.BorderFactory.createTitledBorder("Correo Electronico"));
 
